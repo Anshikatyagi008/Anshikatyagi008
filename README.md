@@ -17,17 +17,17 @@ I am an **M.Tech CSE (AI/ML) student** specializing in data preprocessing, explo
 
 ## 📂 Production & Analytics Portfolio
 
-### 1. 🛡️ [UPI Fraud Detection Engine](https://github.com/UPI-Fraud_Detector)
+### 1. 🛡️ [UPI Fraud Detection Engine](https://github.com/Anshikatyagi008/UPI-Fraud_Detection)
 * **Core Stack:** Python, Scikit-learn, XGBoost, Streamlit Framework
 * **Project Breakdown:** Engineered transaction frequency and behavioral velocity attributes from raw transactional logs. Implemented supervised classifiers to identify fraudulent events, optimizing models to reach an **ROC-AUC of ~0.90**. Built a production-grade Streamlit web interface for end-to-end interactive fraud prediction.
 
-### 2. 📊 [Interactive Business Intelligence Matrix](https://github.com/PowerBI_Dashboards)
+### 2. 📊 [Interactive Business Intelligence Matrix](https://github.com/Anshikatyagi008/PowerBi_Dashboards)
 * **Core Stack:** Power BI Service, Microsoft Excel, Data Modeling, DAX
 * **Project Breakdown:** Designed structured data models to track crucial operations via centralized performance metrics.
   * **Customer Analytics Dashboard:** Consolidated raw records to identify underlying patterns in user churn and client metrics.
   * **Sales Performance Framework:** Built fully dynamic chart arrays, filters, and KPI card metrics tracking retail trends.
 
-### 3. 🔍 [Exploratory Data Analysis Hub](https://github.com/EDA-Projects)
+### 3. 🔍 [Exploratory Data Analysis Hub](https://github.com/Anshikatyagi008/EDA-Projects)
 * **Core Stack:** Jupyter Notebooks, Pandas, NumPy, Seaborn Libraries
 * **Project Breakdown:** A dedicated operational repository highlighting data cleaning, anomaly detection, statistical testing, and structured EDA preprocessing across isolated public and business data streams.
 
